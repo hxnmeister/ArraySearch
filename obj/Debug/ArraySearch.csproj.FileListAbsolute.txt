@@ -1,0 +1,7 @@
+C:\GitHubDesktop\ArraySearch\bin\Debug\ArraySearch.exe.config
+C:\GitHubDesktop\ArraySearch\bin\Debug\ArraySearch.exe
+C:\GitHubDesktop\ArraySearch\bin\Debug\ArraySearch.pdb
+C:\GitHubDesktop\ArraySearch\obj\Debug\ArraySearch.csproj.AssemblyReference.cache
+C:\GitHubDesktop\ArraySearch\obj\Debug\ArraySearch.csproj.CoreCompileInputs.cache
+C:\GitHubDesktop\ArraySearch\obj\Debug\ArraySearch.exe
+C:\GitHubDesktop\ArraySearch\obj\Debug\ArraySearch.pdb
